@@ -22,6 +22,9 @@
 - git diff 'file_name' - show the changes of the file
 - git diff - compara stage area
 - git diff - 'id_01' 'id_02'
+- git branch -a
+- git branch -m 'go' 'go1' - rename the branch
+- git branch -d 'name' - delet the branch
 
 
 '''
