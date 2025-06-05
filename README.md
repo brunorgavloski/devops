@@ -25,6 +25,7 @@
 - git branch -a
 - git branch -m 'go' 'go1' - rename the branch
 - git branch -d 'name' - delet the branch
+- git stash
 
 
 '''
@@ -39,6 +40,19 @@ Add .git ignore
 - ssh-add ~/.ssh/id_ed25519
 - cat ~/.ssh/id_ed25519.pub
 - ssh -T git@github.com
+
+'''
+# Jenkins
+- docker run -p 8080:8080  jenkins/jenkins:lts - Não persistente
+
+
+
+
+
+
+
+
+
 
 
 '''
